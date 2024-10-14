@@ -34,3 +34,9 @@ hogRAGger- This RAG pipeline answers user's question from the given corpus<br>
     JSON file containing training data for hogRAGger.
   - `requirement.txt`:  
     File containing the Python dependencies required to run the project
+
+## Team Members
+<b>Rajsi Sangar</b>
+<b>Suhani Sharma</b>
+<b>Diksha</b>
+<b>Parth Modi</b>
