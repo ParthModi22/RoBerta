@@ -9,9 +9,9 @@ This repository contains a Streamlit-based application that allows users to uplo
 - **Streamlit Interface**: User-friendly interface for uploading images, entering prompts, and viewing search results.
 
 ## Folder Structure
-├── Google_lens.ipynb# Main application code 
-├── README.md # Documentation 
-├── requirement.txt # Dependencies
+├── Google_lens.ipynb# Main application code <br>
+├── README.md # Documentation <br>
+├── requirement.txt # Dependencies <br>
 
 ## Setup Instructions
 
