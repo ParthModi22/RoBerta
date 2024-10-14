@@ -2,8 +2,8 @@
 
 This repository contains our proposed solutions for AI/ML Hackathon.It contains two directories corresponding to two problem statements =: `Google Lens Pro Max` and `hogRAGger'. <br>
 Google Lens Pro Max- This pipeline processes the input image and user prompt to return relevant web search that aligns with the users needs<br>
-hogRAGger- This RAG pipeline answers user's question from the given corpus
-<b>The Two repository have all the requirement.txt and README.md for the Two Problemstatment You can go through the respective repository</b>
+hogRAGger- This RAG pipeline answers user's question from the given corpus<br>
+<b>The Two folders Google Lens Pro Max and hogRAGger/ have all the requirement.txt and README.md for the Two Problemstatment You can go through the respective repository</b>
 
 ## Folder Structure
 
