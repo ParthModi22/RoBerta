@@ -1,15 +1,22 @@
 # TEAM RoBerta
 
-This repository contains two main directories: `Google Lens Pro Max` and `hogRAGger`, each containing their own functionality and files related to the Google Lens Pro Max project.
+This repository contains our proposed solutions for AI/ML Hackathon.It contains two directories corresponding to two problem statements =: `Google Lens Pro Max` and `hogRAGger'. <br>
+Google Lens Pro Max- This pipeline processes the input image and user prompt to return relevant web search that aligns with the users needs
+hogRAGger- This RAG pipeline answers user's question from the given corpus
+ 
 
 ## Folder Structure
 
 - `Google Lens Pro Max/`:  
   Main directory for the Google Lens Pro Max project.
+   - `Google_lens.ipynb`:  
+    Jupyter notebook that contains the main application logic.
   - `.gitignore`:  
     Git configuration file to specify which files to ignore in version control.
   - `README.md`:  
     Documentation file providing an overview of the project.
+  - `requirement.txt`:  
+    File containing the Python dependencies required to run the project
 
 - `hogRAGger/`:  
   This directory contains all the files related to the **hogRAGger** sub-project.

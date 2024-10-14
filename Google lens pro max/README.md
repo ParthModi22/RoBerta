@@ -8,6 +8,11 @@ This repository contains a Streamlit-based application that allows users to uplo
 - **Web Search**: Perform a web search based on the generated caption or user input using DuckDuckGo API.
 - **Streamlit Interface**: User-friendly interface for uploading images, entering prompts, and viewing search results.
 
+## Folder Structure
+├── Google_lens.ipynb# Main application code 
+├── README.md # Documentation 
+├── requirement.txt # Dependencies
+
 ## Setup Instructions
 
 ### 1. Get Your Public IP
