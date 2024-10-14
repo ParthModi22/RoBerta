@@ -38,5 +38,5 @@ hogRAGger- This RAG pipeline answers user's question from the given corpus<br>
 ## Team Members
 <b>Rajsi Sangar</b><br>
 <b>Suhani Sharma</b><br>
-<b>Diksha</b><br>
+<b>Diksha Sharma</b><br>
 <b>Parth Modi</b><br>
