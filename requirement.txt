@@ -1,0 +1,9 @@
+nltk
+faiss-cpu
+transformers
+torch
+sentence-transformers
+rank-bm25
+huggingface-hub
+streamlit
+ngrok
