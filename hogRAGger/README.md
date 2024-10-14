@@ -2,6 +2,13 @@
 
 Hogragger is an open-source hybrid search engine combining FAISS-based dense retrieval and BM25-based lexical search for document retrieval. It also includes a question-answering component powered by Hugging Face models.
 
+### File Structure is as Follows:
+this Folder contains <br>
+* two data set files: -corpus.json<br>
+                     -train.json
+* hogRAGger.ipynb - this file is colab notebook of the full RAG pipeline you can go through it and see the full RAG implimentation
+* hogRAgger_app.ipynb - this file is webapp file of colab with RAG pipeline you can also see that for webapp References (Web app is build on streamlit in colob only to run model efficiently)       
+
 ## Features
 
 - Hybrid search combining dense embeddings (FAISS) and BM25 (lexical search)
@@ -17,6 +24,7 @@ Hogragger is an open-source hybrid search engine combining FAISS-based dense ret
 - `sentence-transformers`
 - `nltk`
 - `rank-bm25`
+-streamlit
 
 ## Installation
 
